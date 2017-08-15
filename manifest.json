@@ -1,0 +1,8 @@
+{
+	"name":"Indian Heaven",
+	"short_name":"Indian Heaven",
+	"lang":"ng-Us",
+	"start_url":"./",
+	"display":"standalone",
+	"theme-color":"#FF1493"
+}
